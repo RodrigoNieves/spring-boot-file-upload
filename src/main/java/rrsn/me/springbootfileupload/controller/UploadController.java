@@ -1,4 +1,4 @@
-package rrsn.me.springbootfileupload;
+package rrsn.me.springbootfileupload.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
